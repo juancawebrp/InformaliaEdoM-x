@@ -160,7 +160,7 @@ a{
 }
 
 /*Inicio de menu de celular*/
-@media only screen and (max-width: 650px) and (min-width:0px){/*Inicio resolusion celular*/
+@media only screen and (max-width: 650px) and (min-width:200px){/*Inicio resolusion celular*/
 *{
     font-size: 100%;
 }
